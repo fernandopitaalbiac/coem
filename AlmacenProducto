@@ -1,0 +1,9 @@
+
+
+public int superficieTotalCultivada(Producto ptc, ArrayList<PequenoProductor> lpp, ArrayList<GranProductor> lgp){
+
+
+
+
+
+}
